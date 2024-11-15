@@ -1,0 +1,6 @@
+/venv_shop_api
+/.venv_shop_api
+.venv_shot_api
+*.sqlite3
+db.sqlite3
+*.env
